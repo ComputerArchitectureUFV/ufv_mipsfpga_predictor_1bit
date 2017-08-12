@@ -1,0 +1,17 @@
+# symbol for hades.models.rtlib.arith.Add
+# FNH, 24.08.98
+# might use the FatInstanceLabel (uncomment as needed)
+#
+hades.symbols.BboxRectangle 0 0 1200 2400
+hades.symbols.Polyline 5 0 0 1200 0 1200 2400 0 2400 0 0
+hades.symbols.ClassLabel 0 1800 1 ShiftLeft2
+hades.symbols.InstanceLabel 0 300 1 shiftleft2
+hades.symbols.Label 300 1100 Shift
+hades.symbols.Label 300 1400 left2
+#
+hades.symbols.BusPortSymbol 1200 1200 OutSL
+hades.symbols.BusPortSymbol 600 2400 A
+#
+hades.symbols.PortLabel 600 2200 2 A
+hades.symbols.PortLabel 600 600 2 OutSL
+#
