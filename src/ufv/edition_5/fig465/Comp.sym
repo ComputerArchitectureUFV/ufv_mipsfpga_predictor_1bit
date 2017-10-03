@@ -1,5 +1,0 @@
-hades.symbols.FatLabel 600 950 2 =
-hades.symbols.BusPortSymbol 600 -600 rs
-hades.symbols.BusPortSymbol 600 1800 rt
-hades.symbols.PortSymbol 1200 600 equal
-hades.symbols.Circle 600 600 600 1200
