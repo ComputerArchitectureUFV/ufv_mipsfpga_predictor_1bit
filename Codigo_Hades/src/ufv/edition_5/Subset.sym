@@ -1,0 +1,14 @@
+# symbol for hades.models.rtlib.io.Subset
+# FNh, 24.08.98 (top-down)
+#
+hades.symbols.BboxRectangle -200 300 800 900
+#hades.symbols.Rectangle 0 0 600 600
+hades.symbols.Polyline 5 0 400 0 800 600 800 600 400 0 400
+hades.symbols.ClassLabel 0 700 1 S
+hades.symbols.InstanceLabel 0 700 3 subset
+hades.symbols.BusPortSymbol 0 600 A
+hades.symbols.BusPortSymbol 600 600 Y
+#
+#hades.symbols.PortLabel  0 350 1 A 
+#hades.symbols.PortLabel  0 550 2 Y
+#

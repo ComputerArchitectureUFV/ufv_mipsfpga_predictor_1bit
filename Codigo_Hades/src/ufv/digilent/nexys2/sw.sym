@@ -1,0 +1,9 @@
+# symbol for hades.models.rtlib.io.IpinVector  (05.08.98)
+#
+hades.symbols.BboxRectangle -6000 -450 -450 450 
+hades.symbols.PersistentInstanceLabel -6100 150 3 i0
+hades.symbols.BusPortSymbol 0 0 Y
+hades.symbols.Polyline 6 0 0 -450 -450 -6000 -450 -6000 450 -450 450 0 0
+hades.symbols.ColoredValueLabel -1200 300 3 UUUU
+hades.symbols.Circle -600 0 300 300
+# hades.symbols.ColoredCircle -750 0 300 300

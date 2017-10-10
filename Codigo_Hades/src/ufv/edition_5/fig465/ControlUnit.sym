@@ -1,0 +1,8 @@
+hades.symbols.Rectangle  0 0 3600 4800
+hades.symbols.BboxRectangle 0 0 3600 4800
+hades.symbols.FatLabel 1800 2700 2 Control
+hades.symbols.BusPortSymbol 3600 2400 Signals
+hades.symbols.PortSymbol 0 1200 Branch
+hades.symbols.PortSymbol 3600 1200 IFflush
+hades.symbols.PortSymbol 600 4800 R
+hades.symbols.BusPortSymbol 0 2400 opcode

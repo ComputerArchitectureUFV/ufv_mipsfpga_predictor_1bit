@@ -1,0 +1,25 @@
+hades.symbols.BboxRectangle 0 0 3000 2400
+hades.symbols.Polyline 5 0 0 3000 0 3000 2400 0 2400 0 0
+hades.symbols.ClassLabel 700 -60 1 FwdUnit
+hades.symbols.InstanceLabel 4850 550 1 FwdUnit
+hades.symbols.FatLabel 1550 1000 2 FWD
+hades.symbols.FatLabel 1510 1800 2 Unit
+#Symbols
+hades.symbols.BusPortSymbol 1200 0 fwdA
+hades.symbols.BusPortSymbol 1800 0 fwdB
+hades.symbols.BusPortSymbol 0 600 IDEX_ARS1
+hades.symbols.BusPortSymbol 0 1800 IDEX_ART1
+hades.symbols.BusPortSymbol 3000 600 EXMEM_RD1
+hades.symbols.BusPortSymbol 3000 1800 MEMWB_RD1
+hades.symbols.BusPortSymbol 1800 2400 EXMEM_RW
+hades.symbols.BusPortSymbol 2400 2400 MEMWB_RW
+#Text
+hades.symbols.PortLabel 1000 400 2 fwdA
+hades.symbols.PortLabel 2000 400 2 fwdB
+hades.symbols.PortLabel 0  1000 2 IDEX_ARS1
+hades.symbols.PortLabel 0 1600 2 IDEX_ART1
+hades.symbols.PortLabel 3000 1000 2 EXMEM_RD1
+hades.symbols.PortLabel 3000 1600 2 MEMWB_RD1
+hades.symbols.PortLabel 1000 2250 2 EXMEM_RW
+hades.symbols.PortLabel 3200 2250 2 MEMWB_RW
+#
